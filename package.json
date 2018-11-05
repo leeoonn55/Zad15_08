@@ -1,0 +1,25 @@
+{
+  "name": "Zad15_08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel script.js --watch --out-file build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeoonn55/Zad15_08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeoonn55/Zad15_08/issues"
+  },
+  "homepage": "https://github.com/leeoonn55/Zad15_08#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
